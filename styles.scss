@@ -1,0 +1,59 @@
+$primary-color: #fff;
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'New York Extra Large';
+    font-style: normal;
+}
+
+.body {
+    background-color: $primary-color;
+}
+
+/*# sourceMappingURL=styles.css.map */
+.navbar {
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.16);
+    padding: 0 1rem;
+    background-color: $primary-color;
+    position: absolute;
+    left: 100px;
+
+    &-nav {
+        position: absolute;
+        right: 200px;
+        font-family: 'New York Small';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+
+    }
+}
+.introduce {
+    font-family: 'SF Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    text-align: center;
+}
+
+.tittle {
+    font-family: 'New York Extra Large';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    text-align: center;
+    line-height: 100%;
+    left: 500px;
+
+    /* or 54px */
+
+}
+
+.picture img {
+    width: 100%;
+    height: 100%;
+
+}

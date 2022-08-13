@@ -1,0 +1,142 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "New York Extra Large";
+  font-style: normal;
+}
+
+.body {
+  background-color: #fff;
+}
+
+.navbar {
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.16);
+  padding: 0 1rem;
+  background-color: #fff;
+  position: absolute;
+  left: 100px;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 200px;
+  font-family: "New York Small";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.container {
+  margin-top: 20em;
+}
+
+.container .row {
+  font-family: "SF Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 170%;
+  /* or 34px */
+  text-align: center;
+}
+
+.container .display-5 {
+  font-family: "New York Extra Large";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  text-align: center;
+  line-height: 100%;
+  left: 500px;
+  /* or 54px */
+}
+
+.container .words {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 120%;
+  width: 262px;
+
+}
+
+/*# sourceMappingURL=styles.css.map */
+.words {
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 120%;
+  /* or 26px */
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+}
+
+.short-line {
+  height: 0px;
+  left: 398px;
+  top: 1092px;
+  border: 1px solid #000000;
+}
+
+.introduce {
+  font-family: 'New York Extra Large';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 100%;
+  /* or 54px */
+  text-align: center;
+}
+
+
+.tittle {
+  font-family: 'SF Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 170%;
+  /* or 34px */
+  width: 592;
+  text-align: center;
+  /* or 54px */
+
+}
+
+.img-start {
+  margin: 60px;
+}
+
+.link-web {
+  margin: 70px;
+}
+
+.picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.black-box {
+  width: 1440px;
+  height: 464px;
+  background: #000000;
+}
+
+.picture-img {
+  width: 290.91px;
+  height: 27.3px;
+  margin: 90px 0px 50px;
+
+}
+
+.lorem-word {
+  font-family: 'New York Small';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+  text-align: center;
+}
